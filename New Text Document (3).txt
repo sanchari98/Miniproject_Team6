@@ -1,0 +1,38 @@
+Last name of second employee
+Print ids of all employee
+Print id of 3rd employee
+Print 3rd contact of 2nd employee
+Print details of 3rd employee
+Print firstname , last name , salary of all employees 
+Print value of all employees whose salary is >= 35000
+
+
+
+{
+	"employees": {
+		"employee": [{
+				"id": "1",
+				"firstname": "Tom",
+				"lastname": "Cruise",
+				"salary": "35000"
+			},
+			{
+				"id": "2",
+				"firstname": "Maria",
+				"lastname": "Sharapova",
+				"salary": "15000",
+				"contact": [123444555, 364646363, "143 - 53 - 2335 "]
+			},
+			{
+				"id": "3",
+				"firstname": "James",
+				"lastname": "Bond",
+				"salary": "49000",
+				"details": {
+					"id": 501,
+					"salary": 45000
+				}
+			}
+		]
+	}
+}
