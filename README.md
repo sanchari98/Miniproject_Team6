@@ -9,6 +9,7 @@ By Team_06
 
 Project Under
 -------------
+----------------
 Sunit Bansal
 ----
 Anuprita Nagpure
@@ -24,9 +25,14 @@ Omkar Jamdar
 Contributors
 ------------
 Sanchari Saha
+--------
 Kushal Ghosh
+---
 Santanu Saha
+-----
 Samarjit Kundu
+--
 Bristi Mazumdar
+---
 
 ****************************************
