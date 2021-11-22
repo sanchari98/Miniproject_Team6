@@ -1,0 +1,21 @@
+2021-11-22 19:06:01,523  INFO [main] loginTest:52 - ==================================================================
+2021-11-22 19:06:01,525  INFO [main] loginTest:53 - =======================Start Of Testing===========================
+2021-11-22 19:06:08,048  INFO [main] loginTest:61 - login started
+2021-11-22 19:06:09,316  INFO [main] loginTest:66 - Navigated to http://localhost/testsite/wp-login.php i.e Login window opened 
+2021-11-22 19:06:09,460  INFO [main] loginTest:68 - Title matched Log In ‹ testsite — WordPress
+2021-11-22 19:06:09,614  INFO [main] loginPage:64 - username field is present and enable
+2021-11-22 19:06:09,666  INFO [main] loginPage:66 - Username Santanu7788
+2021-11-22 19:06:09,726  INFO [main] loginPage:73 - password field is present and enable
+2021-11-22 19:06:09,793  INFO [main] loginPage:75 - Password Santanu@7788
+2021-11-22 19:06:09,842  INFO [main] loginPage:82 - Log In button present and enable
+2021-11-22 19:06:12,838  INFO [main] loginPage:84 - Log In button clicked
+2021-11-22 19:06:12,849  INFO [main] loginPage:88 - Log In successfulDashboard ‹ testsite — WordPress
+2021-11-22 19:06:12,903  INFO [main] loginPage:97 - Dashboard button present and enable
+2021-11-22 19:06:14,967  INFO [main] loginPage:99 - Clicked Dashboard
+2021-11-22 19:06:14,971  INFO [main] loginTest:77 - ==================================================================
+2021-11-22 19:06:14,972  INFO [main] loginTest:78 - =======================End Of Testing===========================
+2021-11-22 19:06:16,330  INFO [main] loginTest:80 - =======================Test ended=======================
+2021-11-22 19:06:16,331  INFO [main] loginTest:52 - ==================================================================
+2021-11-22 19:06:16,332  INFO [main] loginTest:53 - =======================Start Of Testing===========================
+2021-11-22 19:06:23,045  INFO [main] loginTest:61 - login started
+2021-11-22 19:06:24,347  INFO [main] loginTest:66 - Navigated to http://localhost/testsite/wp-login.php i.e Login window opened 
