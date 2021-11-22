@@ -1,0 +1,21 @@
+2021-11-22 13:10:20,967  INFO [main] WordPress:117 - ==================================================================
+2021-11-22 13:10:20,969  INFO [main] WordPress:118 - =======================Start Of Testing===========================
+2021-11-22 13:10:25,485  INFO [main] WordPress:124 - login started
+2021-11-22 13:10:37,062  INFO [main] WordPress:128 - Navigated to http://localhost/testsite/wp-login.php i.e Login window opened 
+2021-11-22 13:10:37,076  INFO [main] WordPress:133 - Title does not matched
+2021-11-22 13:10:37,285  INFO [main] login:69 - username field is present and enable
+2021-11-22 13:10:37,326  INFO [main] login:71 - Username admin
+2021-11-22 13:10:37,381  INFO [main] login:78 - password field is present and enable
+2021-11-22 13:10:37,435  INFO [main] login:80 - Password admin
+2021-11-22 13:10:37,487  INFO [main] login:87 - Log In button present and enable
+2021-11-22 13:10:43,766  INFO [main] login:89 - Log In button clicked
+2021-11-22 13:10:43,775  INFO [main] login:92 - Log In successfulDashboard ‹ WordPress — WordPress
+2021-11-22 13:10:45,648  INFO [main] WordPress:65 - ******************************Posts Test*************************
+2021-11-22 13:10:45,814  INFO [main] posts:78 - mousehover in Posts button
+2021-11-22 13:10:45,815  INFO [main] posts:81 - All Posts button is present and enable
+2021-11-22 13:10:45,954  INFO [main] posts:83 - Move to All Posts button
+2021-11-22 13:10:46,908  INFO [main] posts:85 - Clicked all posts button
+2021-11-22 13:10:50,622  INFO [main] posts:182 - All publishs are deleted
+2021-11-22 13:10:50,627  INFO [main] WordPress:141 - ==================================================================
+2021-11-22 13:10:50,628  INFO [main] WordPress:142 - =======================End Of Testing===========================
+2021-11-22 13:10:51,488  INFO [main] WordPress:144 - =======================Test ended=======================
